@@ -24,7 +24,7 @@ public class Exercicio_21 {
 	    d)\n,\t e espaço em branco
 	    e)Palavra chave
 	    f)Main ou public static void Main(String[] args){ }
-	    g)print, println e printf.
+	    g)print, println e printf
  */
 	
 }
