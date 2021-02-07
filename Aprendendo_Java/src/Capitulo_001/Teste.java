@@ -3,7 +3,9 @@ package Capitulo_001;
 public class Teste {
 
 	public static void main(String[] args) {
-		System.out.println("Meu primeiro programa java!!!");
+		//Imprimindo uma linha de texto com multiplas instruções.
+		System.out.print("Meu primeiro");
+		System.out.println(" programa java!!!");
 
 	}
 
