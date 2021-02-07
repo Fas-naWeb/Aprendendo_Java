@@ -23,6 +23,6 @@ public class Exercicio_22 {
 		R:Falso, o operador resto (%) pode ser usado com tipos ponto flutuante também.
 		
 	e) Os operadores aritméticos *, /, %, + e - têm, todos, o mesmo nível de precedência.
-		R:Falso operadores como *, /, % são executados primeiro do que os operadores de adição e de subtração
+		R:Falso operadores como *, /, % são executados primeiro do que os operadores de adição e de subtração (+,-)
 */
 }
