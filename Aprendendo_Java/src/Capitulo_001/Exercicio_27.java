@@ -1,5 +1,11 @@
 package Capitulo_001;
 
+/*
+	Autor:Fabiano Alves Santos
+	Email:fasnaweb2020@gmail.com
+	Data: 13/02/2021 
+*/
+
 public class Exercicio_27 {
 /*
 	Preencha as lacunas em cada uma das seguintes afirmações:
