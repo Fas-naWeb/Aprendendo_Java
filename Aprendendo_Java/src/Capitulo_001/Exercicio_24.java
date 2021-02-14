@@ -16,7 +16,7 @@ public class Exercicio_24 {
 	
 	b) if (c => 7)
 	System.out.println(“c is equal to or greater than 7”);
-	R:O operador relacional => esta errado,o certo seria >= .
+	R:O operador relacional => esta errado,o certo seria  >= .
  */
 
 }
