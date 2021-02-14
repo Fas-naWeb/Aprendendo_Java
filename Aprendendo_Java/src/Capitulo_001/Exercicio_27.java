@@ -17,7 +17,7 @@ public class Exercicio_27 {
         R: Estrutura seleção if(){}
         
 		c) Os cálculos normalmente são realizados pelas instruções ________ .
-		R:Ijnstruções de soma(+),subtração(-),divisão(/),multiplicação(*),resto(%).
+		R:Instruções de soma(+),subtração(-),divisão(/),multiplicação(*),resto(%).
 		
 		d) Os operadores aritméticos com a mesma precedência da multiplicação são ________ e ________ .
 		R:/ e %.
