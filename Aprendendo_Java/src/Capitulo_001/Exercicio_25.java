@@ -1,5 +1,5 @@
 package Capitulo_001;
-import java.util.Scanner;
+//import java.util.Scanner;
 /*
 	Autor:Fabiano Alves Santos
 	Email:fasnaweb2020@gmail.com
@@ -19,9 +19,8 @@ public class Exercicio_25 {
 		i) Leia o terceiro inteiro digitado pelo usuário e armazene-o na variável z .
 		j) Compute o produto dos três inteiros contidos nas variáveis x , y e z e atribua o resultado à variável result 
 		k) Use System.out.printf para exibir a mensagem “Product is ” seguida pelo valor da variável result.
-*/
-	public static void main(String[] args) {
-		//Declare que um programa calculará o produto de três inteiros.
+		-------------------------------------------------------------------------------------------------------
+		 Declare que um programa calculará o produto de três inteiros.
 	     Scanner entradas = new Scanner(System.in);
 	     int x,y,z, result;
 	     
@@ -37,7 +36,6 @@ public class Exercicio_25 {
 	     result = x * y * z;
 	     
 	     System.out.printf("Produto é: %d",result);
-	  
-	}
-
+*/	  
 }
+
