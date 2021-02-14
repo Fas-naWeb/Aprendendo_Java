@@ -28,9 +28,9 @@ public class Exercicio_23 {
 		System.out.println("Entre com um valor inteiro:");
 		int value = entradas.nextInt();
 		
-		System.out.println("This is a java program");
+		System.out.println("This is a java program.");
 		
-		System.out.printf("%s\n%s","This is a java","program\n\n");
+		System.out.printf("%s\n%s","This is a java","program.\n\n");
 		
 		if(number != 7) {
 			System.out.println("The variable number is not equal to 7");
