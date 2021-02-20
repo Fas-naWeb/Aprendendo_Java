@@ -6,7 +6,7 @@ package Capitulo_001;
    Data: 07/02/2021 
  */
 
-public class Exercicio_21 {
+public class Exercicio_1 {
 /*
 	Preencha as lacunas em cada uma das seguintes afirma��es:
 		a) Um(a) ________ come�a o corpo de cada m�todo e um(a) ________ termina o corpo de cada m�todo.
