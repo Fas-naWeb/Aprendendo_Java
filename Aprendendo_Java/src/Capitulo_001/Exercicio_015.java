@@ -5,7 +5,7 @@ import java.util.Scanner;
 	Email:fasnaweb2020@gmail.com
 	Data: 19/02/2021 
 */
-public class Exercicio_215 {
+public class Exercicio_015 {
 /*
 	(Aritmética) Escreva um aplicativo que solicite ao usuário inserir dois inteiros, obtenha dele esses números e imprima sua soma, produto,
 	diferença e quociente (divisão). Utilize as técnicas mostradas na Figura 2.7
