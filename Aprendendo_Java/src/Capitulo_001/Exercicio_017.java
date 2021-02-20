@@ -39,7 +39,8 @@ public class Exercicio_017 {
 		if(valor3 > valor2 && valor3 > valor1) {
 			System.out.printf("Maior valor digitado: %d | ",valor3);
 		}
-		//-------------------------------------------------------
+
+		
 		if(valor1 < valor2 && valor1 < valor3) {
 			System.out.printf("Menor valor digitado: %d | ",valor1);
 		}
