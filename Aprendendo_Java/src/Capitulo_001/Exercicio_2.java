@@ -6,7 +6,7 @@ package Capitulo_001;
 	Data: 07/02/2021 
 */
 
-public class Exercicio_22 {
+public class Exercicio_2 {
 /*
 	Determine se cada uma das seguintes afirma��es � verdadeira ou falsa. Se falsa, explique por qu�.
 	
