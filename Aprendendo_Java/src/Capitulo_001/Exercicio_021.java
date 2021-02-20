@@ -1,5 +1,9 @@
 package Capitulo_001;
-
+/*
+	Autor:Fabiano Alves Santos
+	Email:fasnaweb2020@gmail.com
+	Data: 07/02/2021 
+*/
 public class Exercicio_021 {
 /*
 	O que o seguinte código imprime?
