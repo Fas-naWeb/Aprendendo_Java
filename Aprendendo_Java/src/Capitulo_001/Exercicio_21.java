@@ -8,20 +8,20 @@ package Capitulo_001;
 
 public class Exercicio_21 {
 /*
-	Preencha as lacunas em cada uma das seguintes afirmações:
-		a) Um(a) ________ começa o corpo de cada método e um(a) ________ termina o corpo de cada método.
-		b) Você pode usar a declaração ________ para tomar decisões.
-		c) ________ começa em um comentário de fim de linha.
-		d) ________, ________ e ________ são chamados espaço em branco.
-		e) ________ são reservadas para uso pelo Java.
-		f) Aplicativos Java iniciam a execução no método ________.
-		g) Os métodos ________, ________ e ________ exibem informações em uma janela de comando.
+	Preencha as lacunas em cada uma das seguintes afirmaï¿½ï¿½es:
+		a) Um(a) ________ comeï¿½a o corpo de cada mï¿½todo e um(a) ________ termina o corpo de cada mï¿½todo.
+		b) Vocï¿½ pode usar a declaraï¿½ï¿½o ________ para tomar decisï¿½es.
+		c) ________ comeï¿½a em um comentï¿½rio de fim de linha.
+		d) ________, ________ e ________ sï¿½o chamados espaï¿½o em branco.
+		e) ________ sï¿½o reservadas para uso pelo Java.
+		f) Aplicativos Java iniciam a execuï¿½ï¿½o no mï¿½todo ________.
+		g) Os mï¿½todos ________, ________ e ________ exibem informaï¿½ï¿½es em uma janela de comando.
 */
 /*
 	    a)Chave para esquerda ( { ),Chave para direita ( } )
-	    b)Declaração if
-	    c)// é utilizada para comentario de fim de linha
-	    d)\n,\t e espaço em branco
+	    b)Declaraï¿½ï¿½o if
+	    c)// ï¿½ utilizada para comentario de fim de linha
+	    d)\n,\t e espaï¿½o em branco
 	    e)Palavra chave
 	    f)Main ou public static void Main(String[] args){ }
 	    g)print, println e printf
