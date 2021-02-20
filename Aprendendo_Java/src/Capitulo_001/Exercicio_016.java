@@ -5,7 +5,7 @@ import java.util.Scanner;
 	Email:fasnaweb2020@gmail.com
 	Data: 19/02/2021 
 */
-public class Exercicio_216 {
+public class Exercicio_016 {
 /*
    (Comparando inteiros) Escreva um aplicativo que solicite ao usuário inserir dois inteiros, obtenha dele esses números e exiba o número
 	maior seguido pelas palavras “is larger" . Se os números forem iguais, imprima a mensagem “These numbers are equal" . Utilize
