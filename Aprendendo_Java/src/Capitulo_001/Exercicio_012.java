@@ -4,7 +4,7 @@ package Capitulo_001;
 	Email:fasnaweb2020@gmail.com
 	Data: 07/02/2021 
 */
-public class Exercicio_212 {
+public class Exercicio_012 {
 /*
  	Dado que y = ax³+ 7, quais das seguintes alternativas são instruções Java corretas para essa equação?
  
