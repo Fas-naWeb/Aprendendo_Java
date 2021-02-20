@@ -4,7 +4,7 @@ package Capitulo_001;
 	Email:fasnaweb2020@gmail.com
 	Data: 13/02/2021 
 */
-public class Exercicio_10 {
+public class Exercicio_010 {
 /*
 	Supondo que x = 2 e y = 3 , o que cada uma das instruções a seguir exibe?
 			a) System.out.printf(“x = %d%n”, x);
