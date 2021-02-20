@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Exercicio_215 {
 /*
 	(Aritmética) Escreva um aplicativo que solicite ao usuário inserir dois inteiros, obtenha dele esses números e imprima sua soma, produto,
-	diferença e quociente (divisão). Utilize as técnicas mostradas na Figura 2.7.
+	diferença e quociente (divisão). Utilize as técnicas mostradas na Figura 2.7
 */
 	
 	public static void main(String[] args) {
