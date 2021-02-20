@@ -11,7 +11,7 @@ public class Exercicio_210 {
 			   R:X = 2
 			   
 			b) System.out.printf(“Value of %d + %d is %d%n”, x, x, (x + x));
-			   R:Value of 2 + 2 is 4
+			   R:Value of 2 + 2 is 4.
 			   
 			c) System.out.printf(“x =”);
 			   R:X =
