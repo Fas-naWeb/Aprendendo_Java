@@ -4,7 +4,7 @@ package Capitulo_001;
 	Email:fasnaweb2020@gmail.com
 	Data: 13/02/2021 
 */
-public class Exercicio_9 {
+public class Exercicio_009 {
 /*
 	Determine se cada uma das seguintes afirmações é verdadeira ou falsa. Se falsa, explique por quê.
 	a) Operadores Java são avaliados da esquerda para a direita.
