@@ -6,7 +6,7 @@ package Capitulo_001;
 */
 import java.util.Scanner;
 
-public class Exercicio_6 {
+public class Exercicio_006 {
 
 	public static void main(String[] args) {
 		 //Declare que um programa calculará o produto de três inteiros.
