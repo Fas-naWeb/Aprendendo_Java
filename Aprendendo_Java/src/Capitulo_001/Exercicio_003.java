@@ -7,7 +7,7 @@ import java.util.Scanner;
 	Data: 07/02/2021 
 */
 
-public class Exercicio_3 {
+public class Exercicio_003 {
 /*
 	Escreva instruções para realizar cada uma das tarefas a seguir:
 	a) Declare que as variáveis c , thisIsAVariable , q76354 e number serão do tipo int .
