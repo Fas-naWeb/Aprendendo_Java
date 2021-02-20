@@ -4,7 +4,7 @@ package Capitulo_001;
 	Email:fasnaweb2020@gmail.com
 	Data: 19/02/2021 
 */
-public class Exercicio_214 {
+public class Exercicio_014 {
 /*
 	Escreva um aplicativo que exiba os números 1 a 4 na mesma linha, com cada par de adjacentes separados por um espaço. Use as seguintes
 	técnicas:
