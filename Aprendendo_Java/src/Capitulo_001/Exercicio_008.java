@@ -4,7 +4,7 @@ package Capitulo_001;
 	Email:fasnaweb2020@gmail.com
 	Data: 13/02/2021 
 */
-public class Exercicio_8 {
+public class Exercicio_008 {
 
 	public static void main(String[] args) {
 /*
