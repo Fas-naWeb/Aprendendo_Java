@@ -6,7 +6,7 @@ package Capitulo_001;
 	Data: 13/02/2021 
 */
 
-public class Exercicio_27 {
+public class Exercicio_7 {
 /*
 	Preencha as lacunas em cada uma das seguintes afirmações:
 		a) ________ são utilizados para documentar um programa e aprimorar sua legibilidade.
