@@ -7,7 +7,7 @@ package Capitulo_001;
 */
 
 
-public class Exercicio_4 {
+public class Exercicio_004 {
 /*
 	Identifique e corrija os erros em cada uma das seguintes instruções:
 	a) if (c < 7);		
