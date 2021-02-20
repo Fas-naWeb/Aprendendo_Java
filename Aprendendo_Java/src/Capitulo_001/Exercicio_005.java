@@ -5,7 +5,7 @@ package Capitulo_001;
 	Email:fasnaweb2020@gmail.com
 	Data: 13/02/2021 
 */
-public class Exercicio_5 {
+public class Exercicio_005 {
 /*
 	Escreva declarações, instruções ou comentários que realizem cada uma das tarefas a seguir:
 		a) Declare que um programa calculará o produto de três inteiros.
