@@ -11,7 +11,7 @@ public class Exercicio_5 {
 		a) Declare que um programa calculará o produto de três inteiros.
 		b) Crie um Scanner chamado input que leia valores a partir da entrada padrão.
 		c) Declare as variáveis x , y , z e result como tipo int .
-		d) Solicite que o usuário insira o primeiro inteiro.
+		d) Solicite que o usuário insira o primeiro inteiro..
 		e) Leia o primeiro inteiro digitado pelo usuário e armazene-o na variável x .
 		f) Solicite que o usuário insira o segundo inteiro.
 		g) Leia o segundo inteiro digitado pelo usuário e armazene-o na variável y .
