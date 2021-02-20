@@ -4,7 +4,7 @@ package Capitulo_001;
 	Email:fasnaweb2020@gmail.com
 	Data: 19/02/2021 
 */
-public class Exercicio_213 {
+public class Exercicio_013 {
 /*
  	Declare a ordem de avaliação dos operadores em cada uma das seguintes instruções Java e mostre o valor de x depois que cada instrução
  	é realizada:
