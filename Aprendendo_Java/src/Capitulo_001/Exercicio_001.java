@@ -9,7 +9,7 @@ package Capitulo_001;
 public class Exercicio_001 {
 /*
 	Preencha as lacunas em cada uma das seguintes afirma��es:
-		a) Um(a) ________ come�a o corpo de cada m�todo e um(a) ________ termina o corpo de cada m�todo.
+		a) Um(a) ________ come�a o corpo de cada m�todo e um(a) ________ termina o corpo de cada m�todo
 		b) Voc� pode usar a declara��o ________ para tomar decis�es.
 		c) ________ come�a em um coment�rio de fim de linha.
 		d) ________, ________ e ________ s�o chamados espa�o em branco.
