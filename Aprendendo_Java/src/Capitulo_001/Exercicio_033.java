@@ -1,4 +1,5 @@
 package Capitulo_001;
+import java.util.Scanner;
 /*
 	Autor:Fabiano Alves Santos
 	Email:fasnaweb2020@gmail.com
@@ -31,7 +32,30 @@ public class Exercicio_033 {
 	chamados de números de “ponto flutuante”.]
 */
 	public static void main(String[] args) {
+		Scanner entradas = new Scanner(System.in);
+		double peso = 0;
+		double altura = 0;
 		
+		System.out.println("========================= CALCULO DO IMC ==============================");
+		
+		System.out.print("DIGITE SEU PESO:");
+		peso = entradas.nextDouble();
+		
+		System.out.print("DIGITE SUA ALTURA:");
+		altura = entradas.nextDouble();
+		
+		double imc = peso / (altura * altura);
+		System.out.println("\n");
+		System.out.printf("IMC = %.2f\n\n",imc);
+		
+		System.out.println("\t\tA INTERPRETAÇÃO DO IMC");
+		System.out.print("-----------------------------------------------------\n");
+		System.out.println("  CLASSIFICAÇÃO\t\tOBESIDADE\t\t(GRAU)\n");
+		System.out.println("  QUE 18,5\t\tMAGREZA\t\t\t0 ");
+		System.out.println("  ENTRE 18,5 E 24,9\tNORMAL\t\t\t0 ");
+		System.out.println("  ENTRE 25,0 E 29,9\tSOBREPESO\t\tI ");
+		System.out.println("  ENTRE 30,0 E 39,9\tOBESIDADE\t\tII ");
+		System.out.println("  MAIOR QUE 40,0\tOBESIDADE GRAVE\t\tIII ");
 
 	}
 
