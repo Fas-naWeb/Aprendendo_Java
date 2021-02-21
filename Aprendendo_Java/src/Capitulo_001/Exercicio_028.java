@@ -5,7 +5,7 @@ import java.util.Scanner;
 	Email:fasnaweb2020@gmail.com
 	Data: 13/02/2021 
 */
-public class Exercicio_28 {
+public class Exercicio_028 {
 
 	public static void main(String[] args) {
 /*
