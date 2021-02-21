@@ -15,7 +15,7 @@ public class Exercicio_028 {
 		circunferência e área utilizando o valor do ponto flutuante 3,14159 para S . Utilize as técnicas mostradas na Figura 2.7. [Observação: você
 		também pode empregar a constante Math.PI predefinida para o valor de S . Essa constante é mais precisa que o valor 3,14159. A classe
 		Math é definida no pacote java.lang . As classes nesse pacote são importadas automaticamente, portanto, você não precisa importar
-		a classe Math para utilizá-la.] Adote as seguintes fórmulas (r é o raio):
+		a classe Math para utilizá-la.] Adote as seguintes fórmulas (r é o raio)
 		diâmetro = 2r
 		circunferência = 2 S r
 		área = S r 2
