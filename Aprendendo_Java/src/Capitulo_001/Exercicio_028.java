@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
 	Autor:Fabiano Alves Santos
 	Email:fasnaweb2020@gmail.com
-	Data: 13/02/2021 
+	Data: 20/02/2021 
 */
 public class Exercicio_028 {
 
