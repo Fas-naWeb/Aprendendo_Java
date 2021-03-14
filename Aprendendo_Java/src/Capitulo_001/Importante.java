@@ -9,7 +9,7 @@ public class Importante {
    importadas implicitamente para os arquivos de código-fonte de outras classes nesse pacote. Assim, uma declaração
    import não é necessária quando uma classe adota outra no mesmo pacote
    
-   Duas formas de importar classes no java
+ 3) Duas formas de importar classes no java
    
    import java.util.Scanner 
    ou no corpo do programa
