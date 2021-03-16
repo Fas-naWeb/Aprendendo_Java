@@ -38,7 +38,7 @@ public class Exercicio_033 {
 		
 		System.out.println("========================= CALCULO DO IMC ==============================");
 		
-		System.out.print("DIGITE SEU PESO:");
+		System.out.print("DIGITE SEU PESO::");
 		peso = entradas.nextDouble();
 		
 		System.out.print("DIGITE SUA ALTURA:");
