@@ -1,7 +1,5 @@
 package DigitalInnovationOne;
 
-import java.sql.Wrapper;
-
 /*
     Autor:Fabiano Alves Santos
     Email:fasnaweb2020@gmail.com
@@ -60,9 +58,9 @@ public class TiposDeDadosJava {
         Short S1 = 32767;
         Short S2 = -3278;
 
-        Int I;     //32 bits
-        Int I1 = 2147483647;
-        Int I2 = -2147483648;
+        Integer I;     //32 bits
+        Integer I1 = 2147483647;
+        Integer I2 = -2147483648;
 
         Long L;     //64 bits
         Long L1 = 9223372036854775807L;
