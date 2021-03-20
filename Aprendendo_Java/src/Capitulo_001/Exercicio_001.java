@@ -12,7 +12,7 @@ public class Exercicio_001 {
 		a) Um(a) ________ come�a o corpo de cada m�todo e um(a) ________ termina o corpo de cada m�todo
 		b) Voc� pode usar a declara��o ________ para tomar decis�es.
 		c) ________ come�a em um coment�rio de fim de linha.
-		d) ________, ________ e ________ s�o chamados espa�o em branco.
+		d) ________, ________ e ________ s�o chamados espa�o em branco....
 		e) ________ s�o reservadas para uso pelo Java.
 		f) Aplicativos Java iniciam a execu��o no m�todo ________.
 		g) Os m�todos ________, ________ e ________ exibem informa��es em uma janela de comando.
