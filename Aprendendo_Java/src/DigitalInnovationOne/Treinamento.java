@@ -25,7 +25,7 @@ public class Treinamento {
       bytecode que é interpretado por uma máquina virtual.
 
       O QUE É UM COMPILADOR ?
-      Um compilador é um programa que,a partir de um código fonte,cfria um programa semanticamente equivalente,porém es-
+      Um compilador é um programa que,a partir de um código fonte,cria um programa semanticamente equivalente,porém es-
       crito em outra linguagem,código objeto.Um compilador traduz  um programa de uma linguagem textual para uma lingua-
       gem de máquina,especifica para um processador e sistema operacional.
 
@@ -50,7 +50,7 @@ public class Treinamento {
 
       Com o java,compilamos para a jvm, o bytecode será executado pela máquina virtual,e não diretamente pelo S.O assim
       o software escrito em java possui portabilidade para qualquer sistema operacianal ,porem cada jvm deve ser constru-
-      ida para umS.O especifico.
+      ida para um S.O especifico.
 
       O QUE È A JRE ?
       Ambiente de execução java,é composto pela jvm,bibliotecas e APIS da linguagem java e outros componentes para suporte
@@ -67,7 +67,7 @@ public class Treinamento {
       OpemJdk é a implementação de referencia opensourse da plataforma java ,javaSe que é mantida pela oracle·
 
       O QUE È JAVA EE ?
-      É uma extenção do java Se que possui suporte a desenvolvimento de sistemas corporativos.
+      É uma extenção do javaSe que possui suporte a desenvolvimento de sistemas corporativos.
       Além do minimo  da plataforma,o java EE possui diversas especificações  de partes da infra estrutura de aplicações
       como acesso a banco de dados,mensageris,serviços web,parser de arquivos e outras.
 
