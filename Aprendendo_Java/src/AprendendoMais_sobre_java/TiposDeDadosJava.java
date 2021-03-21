@@ -81,6 +81,7 @@ public class TiposDeDadosJava {
 
         //TIPOS NÃO PRIMITIVOS
         String texto = "fasweb"; // É uma sequencia de caracteres
+        Void vi; // Tipo válido mais num é nada
         Object obj = new Object();
         // Number num = Integer.valueOf(1);
         //num.toString();
@@ -102,6 +103,37 @@ public class TiposDeDadosJava {
                    DEFAULT
                    A classe e/ou seus  membros são acessiveis somente por classes do mesmo pacote, na sua declaração
                    não é definido nenhum tipo de modificador ,sendo este identificado pelo compilador.
+
+                   ABSTRACT -> Significa que é uma idéia de uma classe,ela em si não pode se transforma num objeto.
+                   Ela não pode ser instanciada.
+
+                   Esse modificador não é aplicado nas variáveis,apenas em classes e métodos.Uma classe abstrata não
+                   pode ser instanciada.Se ouver alguma declaração de um método abstrata,a classe deve ser também mar-
+                   cada como abstrata.
+
+                   STATIC
+                   É usado para criação de variável que podera ser acessada por todas as instancias de objetos desta
+                   classe como uma variável comum,ou seja, a variável criada será a mesma em todas  as insrtâncias e
+                   quando seu conteúdo é modificado numa das instâncias, a modificação acorre em todas  as demais. É
+                   nas declarações de métodos ajudam no acesso direto á classe,portanto não é necessário instanciar um
+                   objeto para acessar o método.
+
+                   FINAL
+                   Quando é aplicado na classe,não permite estender,nos métodos impede que  o mesmo seja sobrescrito
+                   (overriding)na subclasse, e nos valores de variáveis não pode ser alterado depois que ja tenha sido
+                   atribuído um valor.
+
+                   INTERFACES
+                   MÉTODOS ABSTRATOS
+                   Devem ser implementados por todos;
+                   Novos métodos quebram as implementações;
+
+                   MÉTODOS DEFAULT
+                   São herdados a todos que implementam;
+                   Novos métodos não quebram as implementações
+
+                   HERANÇA MÚLTIPLA
+
                  */
     }
 }
