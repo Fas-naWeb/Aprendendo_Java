@@ -14,6 +14,17 @@ public class Importante {
    import java.util.Scanner 
    ou no corpo do programa
    java.util.Scanner input = new java.util.Scanner(System.in);
+
+  4) Parametro de métodos são consideradas variáveis locais.
+  5) A dois tipos de variáveis primitivas e por referência,as primitivas são int,boolean,byte,char
+     long,float e double.E as por referência são as que especificam objetos.
+
+     Os programas utilizam as variáveis de tipo por referência (normalmente chamadas referências) para armazenar as localiza-
+     ções de objetos na memória do computador. Dizemos que essa variável referencia um objeto no programa. Objetos que são referen-
+     ciados podem conter muitas variáveis de instância.
+  6)
+
+
 */
 	
 }
