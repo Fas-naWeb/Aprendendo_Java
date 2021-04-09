@@ -7,6 +7,7 @@ package Capitulo_002;
 public class Exercicio_038 {
   //(Palavra-chave new ) Qual é o objetivo da palavra-chave new ? Explique o que acontece quando você a utiliza.
     /*
-      A palavra chave new tem por objetivo instanciar um objeto (cria um objeto).
+      A palavra chave new tem por objetivo instanciar um objeto (cria um objeto),quando a utiliza você cria uma
+      referencia (aponta) para memória do computador.
     */
 }
